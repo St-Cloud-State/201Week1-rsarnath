@@ -1,5 +1,6 @@
 // < your name >// CSCI 201: Lab assignment 1
-#include <cstdlib>#include <iostream>
+#include <cstdlib>
+#include <iostream>
 #include <iomanip>
 using namespace std;
 const double PI = 3.14159265;
